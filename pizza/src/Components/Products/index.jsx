@@ -15,7 +15,7 @@ const Products = ({ heading, data }) => {
                                     <ProductTitle>{product.name}</ProductTitle>
                                     <ProductDesc>{product.desc}</ProductDesc>
                                     <ProductPrice>{product.price}</ProductPrice>
-                                    <ProductButton>{product.button}</ProductButton>
+                                    <ProductButton id='rzp-button1'>{product.button}</ProductButton>
                                 </ProductInfo>
                             </ProductCard>
                         )
@@ -24,6 +24,7 @@ const Products = ({ heading, data }) => {
 
                 </ProductWrapper>
             </ProductsContainer>
+
 
         </div>
     )

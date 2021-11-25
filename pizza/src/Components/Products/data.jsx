@@ -18,7 +18,7 @@ export const productData = [
         name: 'Air Jordan - I',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$31.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     },
@@ -28,7 +28,7 @@ export const productData = [
         name: 'Air Jordan - II',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$71.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     },
@@ -38,7 +38,7 @@ export const productData = [
         name: 'Air Jordan - III',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$85.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     }
@@ -54,7 +54,7 @@ export const productDataTwo = [
         name: 'Air Jordan - IV',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$41.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     },
@@ -64,7 +64,7 @@ export const productDataTwo = [
         name: 'Air Jordan - V',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$75.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     },
@@ -74,7 +74,7 @@ export const productDataTwo = [
         name: 'Air Jordan - VI',
         desc: 'sadsdsa sdsadsads dsdsdsds sdsad sd sdas dsad ',
         price: '$56.56',
-        button: 'Add to cart'
+        button: 'Purchase'
 
 
     }
